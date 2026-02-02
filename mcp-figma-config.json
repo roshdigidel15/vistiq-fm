@@ -1,0 +1,26 @@
+{
+  "server": "figma-remote-mcp-server",
+  "capabilities": [
+    "get_design_context",
+    "get_metadata",
+    "get_screenshot",
+    "get_variable_defs",
+    "add_code_connect_map",
+    "generate_diagram"
+  ],
+  "user": {
+    "handle": "Rosh",
+    "email": "roshni@rogue-move.com",
+    "plans": [
+      "ROGUE MOVE DIGITAL AGENCY (Pro Full Seat)"
+    ]
+  },
+  "usage": {
+    "rateLimit": "Per minute (Professional Plan)",
+    "features": [
+      "Full API access",
+      "Code Connect",
+      "Variable extraction"
+    ]
+  }
+}

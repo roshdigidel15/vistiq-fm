@@ -1,0 +1,296 @@
+{
+  "project": {
+    "name": "Vistiq (copy)",
+    "id": "4e201a3d2d96ba3a",
+    "extractedAt": "2026-02-02T13:27:29.263Z"
+  },
+  "tokens": {
+    "colors": {
+      "unframer-green-25": "rgb(27, 100, 64)",
+      "unframer-headphone-petrol-black-25": "rgb(62, 63, 65)",
+      "unframer-red-98": "rgb(255, 245, 245)",
+      "unframer-orange-60": "rgb(255, 85, 51)",
+      "unframer-white-100": "rgb(255, 255, 255)",
+      "unframer-red-50": "rgb(255, 0, 0)"
+    },
+    "spacing": {},
+    "typography": {},
+    "allTokens": {
+      "unframer-dark-2": "rgb(5, 5, 5)",
+      "unframer-green-25": "rgb(27, 100, 64)",
+      "unframer-dark-12": "rgb(31, 31, 31)",
+      "unframer-headphone-petrol-black-25": "rgb(62, 63, 65)",
+      "unframer-light-100": "rgb(255, 255, 255)",
+      "unframer-light-98": "rgb(250, 250, 250)",
+      "unframer-neutral-50": "rgb(128, 128, 128)",
+      "unframer-red-98": "rgb(255, 245, 245)",
+      "unframer-orange-60": "rgb(255, 85, 51)",
+      "unframer-light-70": "rgb(179, 179, 179)",
+      "unframer-dark-20": "rgb(51, 51, 51)",
+      "unframer-dark-40": "rgb(102, 102, 102)",
+      "unframer-light-90": "rgb(230, 230, 230)",
+      "unframer-white-100": "rgb(255, 255, 255)",
+      "unframer-red-50": "rgb(255, 0, 0)",
+      "token-05ba60ad-ea69-4607-b99c-a3c987c679f6": "rgb(5, 5, 5)",
+      "token-1244831b-1466-4997-9660-9d134d4b6c18": "rgb(27, 100, 64)",
+      "token-18bfca7b-2eaa-4eaf-b30e-2e83644ca420": "rgb(31, 31, 31)",
+      "token-589e6163-5e20-4ade-9943-1680e023e3cc": "rgb(62, 63, 65)",
+      "token-5df573a8-5c6e-4a5b-bca6-248c4c391d54": "rgb(255, 255, 255)",
+      "token-68cc4841-bdec-4332-832a-45928a6537d2": "rgb(250, 250, 250)",
+      "token-7d0a86f6-183b-48f7-9cdd-ce1afd693465": "rgb(128, 128, 128)",
+      "token-7d9f5ed9-b939-483a-95f9-ed2ff44230f0": "rgb(255, 245, 245)",
+      "token-82d4bcc9-573a-4162-9786-a69066f83aed": "rgb(255, 85, 51)",
+      "token-84424796-5bf3-40ba-9c8f-f150a9aeb123": "rgb(179, 179, 179)",
+      "token-922bf7e2-6566-450d-a5db-d314f15d527e": "rgb(51, 51, 51)",
+      "token-9ac73791-4104-4253-8947-ec829a0f0956": "rgb(102, 102, 102)",
+      "token-b895dab0-293c-4226-8341-405a83b24595": "rgb(230, 230, 230)",
+      "token-ba5c18f7-3d59-43f3-a78d-ab5535fe6229": "rgb(255, 255, 255)",
+      "token-cf8dd677-e2e0-494e-8120-c581fdbef925": "rgb(250, 250, 250)",
+      "token-d13936fb-4fe6-44b3-b03e-7a932eea036a": "rgb(255, 0, 0)",
+      "token-e17401d4-4f1b-4bd6-9a6f-efa3823251f3": "rgb(179, 179, 179)"
+    }
+  },
+  "components": {
+    "components": [
+      {
+        "name": "Phosphor",
+        "type": "component"
+      },
+      {
+        "name": "Button",
+        "type": "component"
+      },
+      {
+        "name": "Button",
+        "type": "component"
+      },
+      {
+        "name": "Services package",
+        "type": "component"
+      },
+      {
+        "name": "Services Slider",
+        "type": "component"
+      },
+      {
+        "name": "Arrow",
+        "type": "component"
+      },
+      {
+        "name": "View More - With Link",
+        "type": "component"
+      },
+      {
+        "name": "Profile Photo",
+        "type": "component"
+      },
+      {
+        "name": "Happy Clients",
+        "type": "component"
+      },
+      {
+        "name": "5-stars",
+        "type": "component"
+      },
+      {
+        "name": "Statistic Card Small",
+        "type": "component"
+      },
+      {
+        "name": "Bentos - Why Choose Vistiq",
+        "type": "component"
+      },
+      {
+        "name": "Statistic Card",
+        "type": "component"
+      },
+      {
+        "name": "Tag",
+        "type": "component"
+      },
+      {
+        "name": "Quotes",
+        "type": "component"
+      },
+      {
+        "name": "Quote Small",
+        "type": "component"
+      },
+      {
+        "name": "Ticker - Quotes",
+        "type": "component"
+      },
+      {
+        "name": "5-stars",
+        "type": "component"
+      },
+      {
+        "name": "Button",
+        "type": "component"
+      },
+      {
+        "name": "Arrow",
+        "type": "component"
+      },
+      {
+        "name": "Shop Card",
+        "type": "component"
+      },
+      {
+        "name": "Quote Big",
+        "type": "component"
+      },
+      {
+        "name": "View More - No Link",
+        "type": "component"
+      },
+      {
+        "name": "Services Category Card",
+        "type": "component"
+      },
+      {
+        "name": "Main",
+        "type": "component"
+      }
+    ],
+    "componentProps": [
+      {
+        "props": " width: 24, height: 24, iconSelection: \"House\", iconSearch: \"House\", color: \"#66F\", selectByList: true, weight: \"regular\", mirrored: false ",
+        "raw": "defaultProps = { width: 24, height: 24, iconSelection: \"House\", iconSearch: \"House\", color: \"#66F\", selectByList: true, weight: \"regular\", mirrored: false }"
+      },
+      {
+        "props": " height: 48, width: 115.5 ",
+        "raw": "defaultProps = { height: 48, width: 115.5 }"
+      },
+      {
+        "props": " direction: \"left\", dragControl: false, startFrom: 0, itemAmount: 1, infinity: true, gap: 10, padding: 10, autoPlayControl: true, effectsOptions: { effectsOpacity: 1, effectsScale: 1, effectsRotate: 0, effectsPerspective: 1200, effectsHover: true, playOffscreen: false ",
+        "raw": "defaultProps = { direction: \"left\", dragControl: false, startFrom: 0, itemAmount: 1, infinity: true, gap: 10, padding: 10, autoPlayControl: true, effectsOptions: { effectsOpacity: 1, effectsScale: 1, effectsRotate: 0, effectsPerspective: 1200, effectsHover: true, playOffscreen: false }"
+      },
+      {
+        "props": " height: 48, width: 115.5 ",
+        "raw": "defaultProps = { height: 48, width: 115.5 }"
+      },
+      {
+        "props": " height: 820, width: 376 ",
+        "raw": "defaultProps = { height: 820, width: 376 }"
+      },
+      {
+        "props": " height: 900, width: 1200 ",
+        "raw": "defaultProps = { height: 900, width: 1200 }"
+      },
+      {
+        "props": " height: 24, width: 24 ",
+        "raw": "defaultProps = { height: 24, width: 24 }"
+      },
+      {
+        "props": " height: 24, width: 148 ",
+        "raw": "defaultProps = { height: 24, width: 148 }"
+      },
+      {
+        "props": " height: 48, width: 48 ",
+        "raw": "defaultProps = { height: 48, width: 48 }"
+      },
+      {
+        "props": " height: 48, width: 288 ",
+        "raw": "defaultProps = { height: 48, width: 288 }"
+      },
+      {
+        "props": " height: 12, width: 76 ",
+        "raw": "defaultProps = { height: 12, width: 76 }"
+      },
+      {
+        "props": " height: 149, width: 267 ",
+        "raw": "defaultProps = { height: 149, width: 267 }"
+      },
+      {
+        "props": " height: 812, width: 1200 ",
+        "raw": "defaultProps = { height: 812, width: 1200 }"
+      },
+      {
+        "props": " height: 366.5, width: 400 ",
+        "raw": "defaultProps = { height: 366.5, width: 400 }"
+      },
+      {
+        "props": " height: 24, width: 87 ",
+        "raw": "defaultProps = { height: 24, width: 87 }"
+      },
+      {
+        "props": " gap: 10, padding: 10, sizingOptions: { widthType: true, heightType: true ",
+        "raw": "defaultProps = { gap: 10, padding: 10, sizingOptions: { widthType: true, heightType: true }"
+      },
+      {
+        "props": " height: 24, width: 29 ",
+        "raw": "defaultProps = { height: 24, width: 29 }"
+      },
+      {
+        "props": " height: 160, width: 400 ",
+        "raw": "defaultProps = { height: 160, width: 400 }"
+      },
+      {
+        "props": " height: 160, width: 1152 ",
+        "raw": "defaultProps = { height: 160, width: 1152 }"
+      },
+      {
+        "props": " height: 12, width: 76 ",
+        "raw": "defaultProps = { height: 12, width: 76 }"
+      },
+      {
+        "props": " height: 48, width: 115.5 ",
+        "raw": "defaultProps = { height: 48, width: 115.5 }"
+      },
+      {
+        "props": " height: 24, width: 24 ",
+        "raw": "defaultProps = { height: 24, width: 24 }"
+      },
+      {
+        "props": " height: 430.5, width: 360 ",
+        "raw": "defaultProps = { height: 430.5, width: 360 }"
+      },
+      {
+        "props": " height: 415.5, width: 855 ",
+        "raw": "defaultProps = { height: 415.5, width: 855 }"
+      },
+      {
+        "props": " height: 24, width: 109.5 ",
+        "raw": "defaultProps = { height: 24, width: 109.5 }"
+      },
+      {
+        "props": " height: 240, width: 562 ",
+        "raw": "defaultProps = { height: 240, width: 562 }"
+      },
+      {
+        "props": " height: 10744, width: 1200 ",
+        "raw": "defaultProps = { height: 10744, width: 1200 }"
+      }
+    ],
+    "totalComponents": 25
+  },
+  "layout": {
+    "variants": [
+      " Desktop: \"wCpC0y8oR\", Mobile: \"sxIVG8y7Z\" ",
+      " Big: \"ew7omclxi\", Small: \"YpgahPt4j\" ",
+      " Default: \"vU3rK8NqH\", Simple: \"ikWkLUl6y\" ",
+      " Desktop: \"SJCFVzc8p\", Mobile: \"W31nYHt_F\", Tablet: \"zKJBAvNmQ\" ",
+      " Big: \"WrXhNFYOn\", Small: \"UrAEL4TC_\" ",
+      " Big: \"ew7omclxi\", Small: \"YpgahPt4j\" ",
+      " \"Desktop Landscape\": \"xaDruOtxw\", \"Desktop Square\": \"VrdW9Feuv\" ",
+      " desktop: \"bb3ZDo9iK\", mobile: \"P0Rd_wW9U\", tablet: \"zxEUUCxCb\" ",
+      " \"Horizontal Arrow\": \"Ux_uQpX1B\", \"Oblique Arrow\": \"tYy1GsZuM\" ",
+      " Desktop: \"pG_jYCBMQ\", Mobile: \"r9POXVOgE\" ",
+      " Desktop: \"kiOMG1z48\", Phone: \"eLBU0Fb7m\", Tablet: \"TzhudNnMS\" "
+    ],
+    "breakpoints": [
+      "Desktop",
+      "Mobile",
+      "Tablet"
+    ],
+    "responsiveDesign": true
+  },
+  "assets": {
+    "extractedFiles": [
+      "framer/main.js",
+      "framer/styles.css",
+      "framer/chunks/"
+    ]
+  }
+}
